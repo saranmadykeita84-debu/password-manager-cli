@@ -1,9 +1,7 @@
 # Travail Pratique #2: Password-Manager 
 
 ## Auteurs
-- Code permanent BAHK30629900, nom Bah, prénom Kadiatou Lamarana
-- Code permanent BAHM02080500, nom Bah, prénom Mamadou Sanoussy
-
+- Saran Mady Keita
 ## Compatibilité 
 Langage – version < Python -- version  3.8 --> 
 
